@@ -1,0 +1,41 @@
+/* Trivia website v1 */
+body {
+  background-color: #d38aeb;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: #fed39e;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: #000;
+  margin: 0;
+}
+
+section {
+  margin: 20px;
+}
+
+a {
+  background-color: #fff;
+  color: #000;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#info {
+  background-color: #fed39e;
+  padding: 20px;
+}
+
+#list {
+  padding: 5px;
+  text-align: center;
+}
