@@ -1,0 +1,27 @@
+body {
+    background-image: url("dark_roc.gif");
+    color: #ddd;
+}
+
+#full-page {
+    max-width: 50em;
+    padding: 4ex 6%;
+    margin: 3% auto;
+    background: black;
+}
+
+a {
+    color: #9b9bff;
+}
+
+a:visited {
+    color: #ff8a8a;
+}
+
+@media (max-width: 800px) {
+    #full-page {
+        padding: 4ex 1em;
+        margin: 0 auto;
+    }
+}
+
